@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostOptimizacion", "PostOptimizacion\PostOptimizacion.csproj", "{A2ECBD8C-C852-4470-80D0-5D03449E825F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2ECBD8C-C852-4470-80D0-5D03449E825F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ECBD8C-C852-4470-80D0-5D03449E825F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ECBD8C-C852-4470-80D0-5D03449E825F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ECBD8C-C852-4470-80D0-5D03449E825F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C176B9F-EA59-4311-B6EF-751BC9215FC5}
+	EndGlobalSection
+EndGlobal
